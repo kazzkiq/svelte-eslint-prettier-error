@@ -20,7 +20,7 @@ Then follow the link in terminal.
 3. Open this project;
 4. Open `Counter.svelte`.
 
-At the last step you should see an lint error as follows:
+At the last step you should see a lint error as follows:
 
 ```
 [Error - 11:54:15 PM] ESLint stack trace:
